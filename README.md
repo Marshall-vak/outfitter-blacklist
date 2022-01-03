@@ -2,6 +2,7 @@
  block furries from downloading to your gmod client
 
 
+```
 furry
 fox
 wolf
@@ -35,3 +36,4 @@ jewwels
 primagen
 cryt
 maxi
+```
