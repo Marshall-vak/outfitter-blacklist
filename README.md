@@ -2,7 +2,7 @@
  block furries from downloading to your gmod client
 
 
-furry\n
+furry
 fox
 wolf
 dragon
