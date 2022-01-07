@@ -2,7 +2,7 @@
  Prevent unwanted outfitters from downloading to your gmod client.
 
 
-Simply add the following list to your outfitter blacklist. If unwanted outfitters get through, make sure to add a pull requst to have it added.
+Simply add the following list to your outfitter blacklist. If unwanted outfitters get through, make sure to add a pull requst to have it added. gmpublisher is an excellent tool to help track down particular models that people use.
 
 Furry:
 ```
@@ -10,6 +10,7 @@ Furry:
 aeon
 anthro
 anubis
+asriel
 avali
 cadyn
 changed
@@ -35,8 +36,6 @@ maxi
 megistus
 mlp
 mordacai
-paladins
-paw patrol
 pony
 primagen
 protogen
@@ -46,6 +45,22 @@ shark
 wolf
 worgen
 zootopia
+yiff
+paw
+lucario
+zoroark
+gardevoir
+lopunny
+loaporeon
+zeraora
+toriel
+puck
+primarina
+incineroar
+krystal
+lycanroc
+waf
+zaeryn
 ```
 Anime:
 ```
@@ -76,10 +91,51 @@ tda
 virtual youtuber
 vtuber
 waifu
+paladins
+re:zero
+touhou
+sailor moon
 ```
 Questionable Games:
 ```
 fnaf
 undertale
 pokemon
+```
+
+Pokemon:
+```
+pokemon
+eevee
+eeveelution
+glaceon
+absol
+lucario
+zoroark
+pikachu
+pichu
+gardevoir
+lopunny
+loaporeon
+zeraora
+wobbuffet
+genesect
+haunter
+rotom
+marshadow
+victini
+primarina
+mudkip
+hoppa
+snorlax
+incineroar
+meloetta
+carbink
+persian
+magearna
+mewtwo
+mew
+ditto
+lycanroc
+muk
 ```
