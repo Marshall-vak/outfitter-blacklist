@@ -32,6 +32,7 @@ megistus
 mlp
 mordacai
 paladins
+paw patrol
 pony
 primagen
 protogen
