@@ -60,6 +60,7 @@ frontline
 genshin
 gijinka
 hololive
+initial d
 jewwels
 jojo
 kamui
