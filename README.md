@@ -17,6 +17,7 @@ cryt
 cyto
 dragon
 drift
+equestria
 fairfox
 favern
 flac
@@ -43,7 +44,6 @@ shark
 wolf
 worgen
 zootopia
-zaeryn
 ```
 Anime:
 ```
@@ -53,6 +53,7 @@ closers
 ddlc
 doki doki
 ena
+equestria
 frontline
 genshin
 gijinka
