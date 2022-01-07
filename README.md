@@ -43,6 +43,7 @@ shark
 wolf
 worgen
 zootopia
+zaeryn
 ```
 Anime:
 ```
