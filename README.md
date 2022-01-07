@@ -1,8 +1,8 @@
 # outfitter-blacklist
- block furries from downloading to your gmod client
+ Prevent unwanted outfitters from downloading to your gmod client.
 
 
-Simply add the following list to your outfitter blacklist. If furries get through make sure to create an issue or make a pull request
+Simply add the following list to your outfitter blacklist. If unwanted outfitters get through, make sure to add a pull requst to have it added.
 
 Furry:
 ```
