@@ -45,4 +45,16 @@ zootopia
 ```
 Anime:
 ```
+anime
+closers
+neptunia
+ena
+genshin
+kanna
+kamui
+jewwels
+kemono
+miku
+niko
+tda
 ```
