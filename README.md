@@ -70,6 +70,7 @@ miku
 neko
 neptunia
 niko
+puffy
 succubus
 tda
 virtual youtuber
@@ -80,4 +81,5 @@ Questionable Games:
 ```
 fnaf
 undertale
+pokemon
 ```
