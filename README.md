@@ -11,6 +11,7 @@ aeon
 anthro
 anubis
 avali
+cadyn
 changed
 cooper
 cryt
@@ -27,6 +28,7 @@ fox
 foxe
 furry
 grifgrif
+husky
 kadyn
 leymi
 maxi
