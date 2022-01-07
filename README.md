@@ -38,6 +38,7 @@ pony
 primagen
 protogen
 puro
+seasalt
 shark
 wolf
 worgen
