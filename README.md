@@ -46,17 +46,28 @@ zootopia
 Anime:
 ```
 anime
+azur lane
 closers
-neptunia
+ddlc
+doki doki
 ena
+frontline
 genshin
-kanna
-kamui
+gijinka
+hololive
 jewwels
+jojo
+kamui
+kanna
 kemono
 miku
+neko
+neptunia
 niko
+succubus
 tda
+virtual youtuber
+vtuber
 waifu
 ```
 Questionable Games:
