@@ -45,6 +45,7 @@ shark
 wolf
 worgen
 zootopia
+judy
 yiff
 paw
 lucario
@@ -95,14 +96,18 @@ paladins
 re:zero
 touhou
 sailor moon
+xc2
+xenoblade
 ```
 Questionable Games:
 ```
 fnaf
 undertale
 pokemon
+helltaker
+xc2
+xenoblade
 ```
-
 Pokemon:
 ```
 pokemon
@@ -138,4 +143,5 @@ mew
 ditto
 lycanroc
 muk
+slowbro
 ```
