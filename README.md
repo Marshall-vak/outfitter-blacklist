@@ -62,6 +62,7 @@ krystal
 lycanroc
 waf
 zaeryn
+soaster squirrel
 ```
 Anime:
 ```
