@@ -99,6 +99,8 @@ touhou
 sailor moon
 xc2
 xenoblade
+no game no life
+jibril
 ```
 Questionable Games:
 ```
