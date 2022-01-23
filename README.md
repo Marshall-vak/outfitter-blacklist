@@ -70,7 +70,7 @@ anime
 azur lane
 closers
 ddlc
-doki doki
+doki
 ena
 equestria
 frontline
