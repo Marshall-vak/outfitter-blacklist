@@ -63,6 +63,7 @@ lycanroc
 waf
 zaeryn
 soaster squirrel
+drogan
 ```
 Anime:
 ```
