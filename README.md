@@ -4,7 +4,7 @@
 
 Simply add the following list to your outfitter blacklist. If unwanted outfitters get through, make sure to add a pull requst to have it added. gmpublisher is an excellent tool to help track down particular models that people use.
 
-Furry:
+### Furry:
 ```
 (fox)
 aeon
@@ -65,7 +65,7 @@ zaeryn
 soaster squirrel
 drogan
 ```
-Anime:
+### Anime:
 ```
 anime
 azur lane
@@ -103,7 +103,7 @@ xenoblade
 no game no life
 jibril
 ```
-Questionable Games:
+### Questionable Games:
 ```
 fnaf
 fnac
@@ -113,7 +113,7 @@ helltaker
 xc2
 xenoblade
 ```
-Pokemon:
+### Pokemon:
 ```
 pokemon
 eevee
