@@ -64,6 +64,8 @@ waf
 zaeryn
 soaster squirrel
 drogan
+owo
+uwu
 ```
 ### Anime:
 ```
