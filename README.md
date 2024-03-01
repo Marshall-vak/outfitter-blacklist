@@ -32,6 +32,7 @@ grifgrif
 husky
 kadyn
 leymi
+ligeia
 maxi
 megistus
 mlp
@@ -66,6 +67,7 @@ soaster squirrel
 drogan
 owo
 uwu
+gay
 ```
 ### Anime:
 ```
